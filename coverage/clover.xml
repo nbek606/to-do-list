@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1642866935498" clover="3.2.0">
+  <project timestamp="1642866935498" name="All files">
+    <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0" elements="4" coveredelements="0" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="ItemTask.vue" path="/Applications/MAMP/htdocs/to-do-list-2/src/components/ItemTask.vue">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
